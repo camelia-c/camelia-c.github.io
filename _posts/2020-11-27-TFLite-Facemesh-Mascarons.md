@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MediaPipe FaceMesh TFLite for Mascarons 3D Reconstruction"
-author: me
+author: camelia
 categories: [ TFLite, FaceMesh, 3D, Pyvista ]
 image: assets/images/thumbnail_mascaronns.jpg
 ---
