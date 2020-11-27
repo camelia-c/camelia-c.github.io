@@ -13,13 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  demo:
-    name: Demo
-    display_name: Demo   
+  camelia:
+    name: Camelia
+    display_name: Camelia   
     avatar: 'assets/images/avatar2.png'
-    email: demo@demo.com
-    web: https://demo.demo.com
-    description: "Demo"
+    email: ciolac_c@inria-alumni.fr
+    web: https://camelia-c.github.io/
+    description: "Camelia"
 
 # Plugins
 plugins:
