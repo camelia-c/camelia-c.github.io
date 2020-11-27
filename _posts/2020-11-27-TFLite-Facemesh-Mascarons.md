@@ -6,9 +6,6 @@ categories: [ TFLite, FaceMesh, 3D, Pyvista ]
 image: assets/images/thumbnail_mascaronns.jpg
 ---
 
-MediaPipe FaceMesh TFLite for Mascarons 3D Reconstruction
-
-
 In this mini-projet, we use Google's MediaPipe framework as well as a pretrained Tensorflow Lite model to predict the face mesh given an image of a mascaron (sculptured keystone). We visualize the reconstructed face in 3D, with skin texture.
 
 
