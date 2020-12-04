@@ -2,7 +2,7 @@
 layout: post
 title:  "TF Siamese Neural Network for Identifying Architectural Style of Buildings Facades"
 author: camelia
-categories: [ Tensorflow, Siamese Net, ResNet50, Embeddings, Similarity, Lambda Layer, Custom Callback, TF Dataset, Computer Vision ]
+categories: [ Tensorflow, Siamese Net, ResNet50, Embeddings, similarity, Lambda Layer, Custom Callback, TF Dataset, Computer Vision ]
 image: assets/images/thumbnail_baroque.jpg
 ---
 
