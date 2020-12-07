@@ -15,7 +15,7 @@ title: Home
 
     {% for post in site.posts %}
 
-        {% if post.theme == architecture %}
+        {% if post.ptheme contains "architecture" %}
 
             {% include postbox.html %}
 
