@@ -2,6 +2,7 @@
 layout: post
 title:  "OpenCV Salient Points and Local Descriptors to Recognize Landmark Building in Century-old Postcard"
 author: camelia
+ptheme: architecture
 categories: [ OpenCV, image salient points, image local descriptors, RANSAC, similarity, Computer Vision ]
 image: assets/images/thumbnail_buildings.jpg
 ---
