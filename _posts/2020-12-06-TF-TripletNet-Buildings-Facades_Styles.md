@@ -17,6 +17,9 @@ In this mini-project we train a Tensorflow model to identify the architectural s
 
 Moreover, we use only a few exemplars per class and perform few-shot learning via a Triplet Net.
 
+![]({{ site.baseurl }}/assets/images/scr2_tn.png) 
+![]({{ site.baseurl }}/assets/images/scr3_tn.png) 
+![]({{ site.baseurl }}/assets/images/scr4_tn.png) 
 
 [Notebook](https://nbviewer.jupyter.org/github/camelia-c/techfolio/blob/main/tf_tripletnet_buildings_facades_styles/TF_Training_TripletNet_to_Identify_Architecture_Style.ipynb){:target="_blank"}
 
