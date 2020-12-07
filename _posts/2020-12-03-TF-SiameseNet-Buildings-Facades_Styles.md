@@ -11,9 +11,9 @@ image: assets/images/thumbnail_baroque.jpg
 
 In this mini-project we train a Tensorflow model to identify the architectural style of a church facade. Initially we include three styles :
 
-    "CLASSIC" : Classic , Classical Revival , Neo-Classic
-    "GOTHIC" : Gothic , Neo-Gothic
-    "BAROQUE" : Baroque , Rococo, Baroque Revival
+- "CLASSIC" : Classic , Classical Revival , Neo-Classic
+- "GOTHIC" : Gothic , Neo-Gothic
+- "BAROQUE" : Baroque , Rococo, Baroque Revival
 
 Moreover, we use only a few exemplars per class and perform few-shot learning via a Siamese Neural Network.
 
