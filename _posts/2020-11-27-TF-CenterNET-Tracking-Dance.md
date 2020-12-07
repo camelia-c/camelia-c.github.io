@@ -2,6 +2,7 @@
 layout: post
 title:  "TF Human Pose Keypoints and Tracking for Folk Dance Choreographies"
 author: camelia
+ptheme: music
 categories: [ Tensorflow, CENTER-NET, Human Pose Keypoints, OpenCV, Instance Tracking, FFMPEG, Computer Vision ]
 image: assets/images/thumbnail_folkdances.jpg
 ---
