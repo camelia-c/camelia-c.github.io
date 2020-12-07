@@ -2,6 +2,7 @@
 layout: post
 title:  "TF Instance Segmentation and Dominant Colors of Kimonos"
 author: camelia
+ptheme: traditions
 categories: [ Tensorflow, MASK R-CNN, Instance Segmentation, HDBSCAN, ColorThief, Computer Vision ]
 image: assets/images/thumbnail_kimono.jpeg
 ---
