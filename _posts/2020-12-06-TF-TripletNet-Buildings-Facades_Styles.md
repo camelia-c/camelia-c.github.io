@@ -2,6 +2,7 @@
 layout: post
 title:  "TF Triplet Net for Identifying Architectural Style of Buildings Facades"
 author: camelia
+ptheme: architecture
 categories: [ Tensorflow, Triplet Net, ResNet50, Embeddings, similarity, Lambda Layer, Custom Callback, Custom Loss, TF Dataset, Annoy index, Computer Vision ]
 image: assets/images/thumbnail_baroque2.jpg
 ---
