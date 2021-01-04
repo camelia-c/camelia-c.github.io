@@ -4,7 +4,7 @@ title:  "TF Image Segmentation on Landscape Paintings from Various Art Movements
 author: camelia
 ptheme: paint
 categories: [ Tensorflow, DeepLab, Lambda Layer, Image Segmentation, Confidence heatmap, webscraping, MongoDB, Computer Vision ]
-image: assets/images/thumbnail_landscapes.jpg
+image: assets/images/thumbnail_landscapes.jpeg
 ---
 
 
