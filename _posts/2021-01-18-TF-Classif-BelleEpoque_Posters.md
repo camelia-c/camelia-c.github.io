@@ -3,7 +3,7 @@ layout: post
 title:  "TF Image Classification for Belle Epoque Posters"
 author: camelia
 ptheme: paint
-categories: [ Tensorflow, ResNet, declarative ML, custom Callbacks, Lambda Layer, Keras Tuner, tf.data, tf.feature_column, tabular data, Optunity, CatBoost, Image classification, OpenCV, Computer Vision ]
+categories: [ Tensorflow, ResNet50, declarative ML, custom Callbacks, Lambda Layer, Keras Tuner, tf.data, tf.feature_column, tabular data, Optunity, CatBoost, Image classification, OpenCV, Computer Vision ]
 image: assets/images/thumbnail_posters.png
 ---
 
