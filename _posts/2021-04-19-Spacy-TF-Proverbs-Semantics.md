@@ -3,7 +3,7 @@ layout: post
 title:  "Natural Language Processing for Semantics of Multicultural Proverbs"
 author: camelia
 ptheme: traditions
-categories: [ NLP, Spacy, AllenNLP, WordNet, BabelNet, Tensorflow, BERT, Node2Vec, SupWSD, Part-of-speech, NetworkX, SPARQL, RDF, Blazegraph ]
+categories: [ NLP, Spacy, AllenNLP, WordNet, BabelNet, Tensorflow, BERT, Node2Vec, SupWSD, Part-of-speech, NetworkX, SPARQL, RDF, Blazegraph, GCP ]
 image: assets/images/thumbnail_proverbs.jpg
 ---
 
