@@ -4,7 +4,7 @@ title:  Classical Music NER with Spacy v3"
 author: camelia
 ptheme: music
 categories: [ NLP, Spacy, NER, Word2Vec, Gensim, Doccano, GCP]
-image: assets/images/thumbnail_ner.jpg
+image: assets/images/thumbnail_ner.png
 ---
 
 In this mini-project we train a Spacy Named Entity Recognition model on titles of classical music compositions in French.  
@@ -15,7 +15,7 @@ We need to develop a custom Spacy tokenizer due to the spellings of the titles, 
 
 Results:
 
-![]({{ site.baseurl }}/assets/images/ners1.png) 
+![]({{ site.baseurl }}/assets/images/ner1.png) 
 
 
 
