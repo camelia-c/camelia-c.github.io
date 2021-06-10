@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Classical Music NER with Spacy v3"
+title:  Classical Music NER with Spacy v3
 author: camelia
 ptheme: music
 categories: [ NLP, Spacy, NER, Word2Vec, Gensim, Doccano, GCP]
